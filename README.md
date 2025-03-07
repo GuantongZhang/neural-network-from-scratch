@@ -1,7 +1,7 @@
 # neural-network-from-scratch
 A single layer neural network from scratch for a binary classification problem.
 
-For the single layer MLP, the input undergoes the following transformations. Firstly, the column vector $\x$ goes through a linear transformation:
+For the single layer MLP, the input undergoes the following transformations. Firstly, the column vector $x$ goes through a linear transformation:
 
 $$\
 q = W^1x + b^1
