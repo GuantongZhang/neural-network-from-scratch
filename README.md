@@ -1,5 +1,5 @@
 # neural-network-from-scratch
-A single layer neural network from scratch for a binary classification problem.
+A single layer neural network from scratch for a binary classification problem, with validation using a PyTorch implementation (see reference.py).
 
 For the single layer MLP, the input undergoes the following transformations. Firstly, the column vector $x$ goes through a linear transformation:
 
